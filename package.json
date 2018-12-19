@@ -1,8 +1,10 @@
 {
   "name": "hotdogjellyfish",
+  "homepage": "https://jchoi166.github.io/newclicky",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-router-dom": "^4.3.1",
