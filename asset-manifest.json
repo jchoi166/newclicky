@@ -1,13 +1,13 @@
 {
-  "main.css": "/newclicky/static/css/main.3e4092a6.chunk.css",
-  "main.js": "/newclicky/static/js/main.3c4b9638.chunk.js",
-  "main.js.map": "/newclicky/static/js/main.3c4b9638.chunk.js.map",
-  "static/js/1.7d555d5c.chunk.js": "/newclicky/static/js/1.7d555d5c.chunk.js",
-  "static/js/1.7d555d5c.chunk.js.map": "/newclicky/static/js/1.7d555d5c.chunk.js.map",
+  "main.css": "/newclicky/static/css/main.130e0237.chunk.css",
+  "main.js": "/newclicky/static/js/main.2a244eb7.chunk.js",
+  "main.js.map": "/newclicky/static/js/main.2a244eb7.chunk.js.map",
+  "static/js/1.ef9346a3.chunk.js": "/newclicky/static/js/1.ef9346a3.chunk.js",
+  "static/js/1.ef9346a3.chunk.js.map": "/newclicky/static/js/1.ef9346a3.chunk.js.map",
   "runtime~main.js": "/newclicky/static/js/runtime~main.0885653a.js",
   "runtime~main.js.map": "/newclicky/static/js/runtime~main.0885653a.js.map",
-  "static/css/main.3e4092a6.chunk.css.map": "/newclicky/static/css/main.3e4092a6.chunk.css.map",
+  "static/css/main.130e0237.chunk.css.map": "/newclicky/static/css/main.130e0237.chunk.css.map",
   "index.html": "/newclicky/index.html",
-  "precache-manifest.8152da9222e89fb7fe0e85fa30057cb8.js": "/newclicky/precache-manifest.8152da9222e89fb7fe0e85fa30057cb8.js",
+  "precache-manifest.634a6a014d104abe7c8980fb1bad60b0.js": "/newclicky/precache-manifest.634a6a014d104abe7c8980fb1bad60b0.js",
   "service-worker.js": "/newclicky/service-worker.js"
 }
